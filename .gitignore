@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+dataset/*
+generated/*
+dataset.txt
+captioner.tflite
+img_model.h5
+test_set.json
+alt_vocab.txt
